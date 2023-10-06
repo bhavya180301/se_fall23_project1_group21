@@ -11,6 +11,6 @@ Rubric Grading google sheet links:
 
 Contributors : 
 <br>Bhavya Harchandani - bharcha@ncsu.edu
-<br>Siddharth Shah - ssshah@ncsu.edu
+<br>Siddharth Shah - ssshah26@ncsu.edu
 <br>Mitali Sethi - msethi@ncsu.edu
 <br>Akshat Saxena - asaxen24@ncsu.edu
