@@ -1,0 +1,103 @@
+,,Classroom Bot,
+Criteria ,,Score ,Comments
+,Workload Split,2,Pull requests and commits
+,Number of commits,1,201 commits
+,Issues closed,2,27/35
+,DOI badge: exists,3,README
+Documentation ,Is the format of the document ugly?,2,
+,Does the document talk about each functionality?,1,"No specific section in the 
+README or anywhere
+for the functionalities"
+,"For common use cases, does the document have mini-tutorials?",1,"No specific section in the 
+README or repository that
+explains use cases"
+,"Does the document tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing?",1,"Only a brief paragraph on
+what this project can do"
+,"Does it contain a short, animated video hosted on the repo that convinces people why they want to work on your code?",1,The video doesn't give a proper demonstration of the functio0lities 
+,Use of version control tools,3,Github
+,Use of style checkers,3,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/CONTRIBUTING.md#L102
+,Use of code formatters.,0,
+,Use of syntax checkers.,3,"pycodestyle used
+https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/backend-service/lint.Dockerfile"
+,Use of code coverage,1,
+,Other automated analysis tools,3,
+,Test Case exist,3,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/README.md#L54
+,Test cases routinely executed,0,No information about last tests conducted
+,The files contributing.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/CONTRIBUTING.md
+,Issues are discussed before they are closed,1,Comments in Issues section
+,Chat channel: exists,3,Chats in Issues section and Pull Requests
+,Test cases: a large proportion of the issues related to handling failing cases.,1,
+,Short release cycles,1,
+Q1 - What your software does,"Does your website and documentation provide a clear, high-level overview of your software?",Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/README.md
+,Does your website and documentation clearly describe the type of user who should use your software?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/README.md
+,Do you publish case studies to show how your software has been used by yourself and others?,No,
+Q2 - Your project's and software's identity,"Is the name of your project/software unique?
+",No,
+,"Is your project/software name free from trademark violations?
+",No,
+Q3 - Availability of your software,Is your software available as a package that can be deployed without building it?,No,README has a list of installation instructions
+,"Is your software available for free?
+",Yes,Publicly available on Github
+,"Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?",Yes,Publicly available on Github
+,"Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?",Yes,Publicly available on Github
+Q4 - Your software's documentation,Is your documentation clearly available on your website or within your software?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/README.md
+,"Does your documentation include a ""quick start"" guide, that provides a short overview of how to use your software with some basic examples of use?",Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/README.md#L7
+,"If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?",No,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/README.md#L7
+,"Do you provide a comprehensive guide to all your software’s commands, functions and options?",No,
+,Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?,No,
+,"If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?",Yes,API testcases given
+,Do you store your documentation under revision control with your source code?,No,
+,"Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?",No,
+Q5 - How do you support your software?,Does your software describe how a user can get help with using your software?,Yes,Contributors
+,"Does your website and documentation describe what support, if any, you provide to users and developers?",Yes,Contributors
+,Does your project have an e-mail address or forum that is solely for supporting users?,No,No such email or forum mentioned
+,Are e-mails to your support e-mail address received by more than one person?,No,
+,Does your project have a ticketing system to manage bug reports and feature requests?,Yes,Issues and Pull Requests
+,"Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?",Yes,Issues discussed publicly on Github
+Q6 - Your software's maintai0bility,Is your software’s architecture and design modular?,Yes,Structured file system and directories
+,Does your software use an accepted coding standard or convention?,Yes,
+Q7 - Open standards and your software,"Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones",No,
+,"Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP,  or domain-specific ones",Yes,Communications with the database
+Q8 - Your software's portability,"Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?",Yes,Cross platform installation
+Q9 - Your software and accessibility,Does your software adhere to appropriate accessibility conventions or standards?,Yes,
+,Does your documentation adhere to appropriate accessibility conventions or standards?,No,
+Q10 - How do you ma0ge your source code?,Is your source code stored in a repository under revision control?,Yes,Github
+,Does each source code release a snapshot of the repository?,No,
+,Are releases tagged in the repository?,No,
+,"Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)",Yes,main-branch 
+,Do you back-up your repository?,Yes,Copies made by contributors of the project
+Q11 - Building and installing your software,Do you provide publicly-available instructions for building your software from the source code?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/README.md#L7
+,"Can you build, or package, your software using an automated tool?",No,
+,Do you provide publicly-available instructions for deploying your software?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/README.md#L7
+,Does your documentation list all third-party dependencies?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/README.md
+, Does your documentation list the version number for all third-party dependencies?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/README.md
+,"Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?",No,
+,Can you download dependencies using a dependency management tool or package manager?,No,
+,Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?,No,
+Q12 - How you test your software,"Do you have an automated test suite for your software?
+",Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/ui/classroom-bot-ui/src/setupTests.js#L3
+,Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?,No,No such testing
+,"Do you use continuous integration, automatically running tests whenever changes are made to your source code?",No,
+,Are your test results publicly visible?,Yes,
+,Does your website state how many projects and users are associated with your project?,No,
+,Do you provide success stories on your website?,No,
+,Do you list your important partners and collaborators on your website?,No,
+,Do you list your project's publications on your website or link to a resource where these are available?,No,
+,Do you list third-party publications that refer to your software on your website or link to a resource where these are available?,No,
+,Can users subscribe to notifications to changes to your source code repository?,Yes,Github feature
+,"If your software is developed as an open source project (and just a project developing open source software), do you have a governance model?",Yes,Contributing.md files provide guidelines for contributions
+Q14 - How you ma0ge contributions,"Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?",Yes,Merges and Pull requests
+, Do you have a contributions policy?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/CONTRIBUTING.md
+,Is your contributions' policy publicly available,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/CONTRIBUTING.md
+,Do contributors keep the copyright/IP of their contributions,No,
+Q15 - Your software's copyright and licensing,Does your website and documentation clearly state the copyright owners of your software and documentation?,No,
+,Does each of your source code files include a copyright statement?,No,
+,Does your website and documentation clearly state the licence of your software?,Yes,https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/LICENSE.md
+,Is your software released under an open source licence?,Yes,"MIT License
+https://github.com/Ayushi61/Classroom-Bot/blob/f4b4875cb266d4936c56cfd514a57c8ff9e1f940/LICENSE.md"
+,Is your software released under an OSI-approved open-source licence?,Yes,MIT License
+,Does each of your source code files include a licence header?,No,
+,Do you have a recommended citation for your software?,Yes,Citation.md
+Q16 - Your plans for the future,"Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?",No,
+,"Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?",No,
+,"Do you make timely announcements of the deprecation of components, APIs, etc.?",No,
